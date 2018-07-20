@@ -1,0 +1,17 @@
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\bin\Debug\WPF_Explorer_Tree.exe
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\bin\Debug\WPF_Explorer_Tree.pdb
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree.csprojAssemblyReference.cache
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\ExplorerTree.g.cs
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\Window1.g.cs
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\App.g.cs
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree_MarkupCompile.cache
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree_MarkupCompile.lref
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\ExplorerTree.baml
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\Window1.baml
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree.g.resources
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree.Properties.Resources.resources
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree.csproj.GenerateResource.cache
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree.csproj.CoreCompileInputs.cache
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree.exe
+C:\Users\BeutlerD\Downloads\WPF_Explorer_Tree\WPF_Explorer_Tree\obj\Debug\WPF_Explorer_Tree.pdb
